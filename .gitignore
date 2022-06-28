@@ -12,3 +12,6 @@ node_modules
 
 # Ignore SASS config files
 .sass-cache
+
+# ignore test.md
+test.md
